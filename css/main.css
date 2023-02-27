@@ -1,0 +1,138 @@
+/*Section failures*/
+.failures {
+    display: flex;
+    margin-top: 0px;
+    background-color: #ffffff;
+}
+
+.phott img {
+    height: 502px;
+    width: 482px;
+    margin-top: 100px;
+}
+
+.failures-dit {
+    padding: 50px;
+    margin-left: 55px;
+}
+
+.failures-dit h3 {
+    margin-top: 48px;
+    font-size: 30px;
+    font-family: system-ui, system-ui, sans-serif;
+}
+
+.failures-dit p {
+    font-size: 13px;
+    font-family: system-ui, system-ui, sans-serif;
+    color: #4c4c4c;
+}
+
+/*Section new-year*/
+
+.new-year {
+    background-color: #ffffff;
+    margin: 0px;
+    padding: 100px;
+}
+
+.new-year-header {
+    background-image: url(../images/bg-gre.png);
+    background-repeat: no-repeat;
+    background-size: 810px 190px;
+    height: 235px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.new-year-header h1 {
+    font-size: 50px;
+    color: #ff8d00;
+    font-weight: bold;
+}
+
+.new-year-paragraph {
+    background-image: url(../images/par-bg.png);
+    background-repeat: no-repeat;
+    background-size: 800px 565px;
+    height: 500px;
+    text-align: center;
+    padding-top: 166px;
+    text-align: center;
+    margin-top: -47px;
+}
+
+.new-year-paragraph p {
+    font-size: 30px;
+    color: #4c4c4c;
+}
+
+/*Section My Plans*/
+
+.my-plans {
+    margin-top: -160px;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 35px;
+}
+
+.my-plans h2 {
+    font-size: 40PX;
+    font-family: system-ui, system-ui, sans-serif;
+}
+
+.plan-box {
+    display: flex;
+    margin-left: -13px;
+}
+
+.plan-ditails {
+    text-align: center;
+    margin-left: 70px;
+}
+
+.plan-ditails img {
+    height: 60px;
+    width: 60px;
+}
+
+.plan-ditails h4 {
+    font-size: 23px;
+    margin-top: 8px;
+    margin-bottom: -8px;
+}
+
+.plan-ditails p {
+    color: #4c4c4c;
+    #858383
+}
+
+.mindset {
+    background-image: url(../images/gradient2.png), url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+    padding: 15px;
+    margin-top: 100px;
+    width: 731px;
+    margin-left: 55px;
+    border-radius: 8px;
+}
+
+.mindset h3 {
+    font-size: 30px;
+    color: aliceblue;
+    font-family: system-ui, system-ui, sans-serif;
+}
+
+.mindset button {
+    font-size: 17px;
+    background-color: white;
+    color: coral;
+    padding: 10px;
+    width: 108px;
+    height: 50px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+}

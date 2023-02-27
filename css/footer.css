@@ -1,0 +1,59 @@
+footer {
+    display: flex;
+    margin-top: 0px;
+    background-color: black;
+}
+
+.future {
+    padding: 50px;
+}
+
+.future h2 {
+    font-size: 30px;
+    color: aliceblue;
+    font-family: system-ui, system-ui, sans-serif;
+}
+
+.future p {
+    color: #d1d1d1;
+    font-size: 13px;
+}
+
+.future img {
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+}
+
+.Subscribe {
+    padding: 100px;
+    margin-left: 132px;
+}
+
+.Subscribe h3 {
+    font-size: 27px;
+    color: aliceblue;
+    margin-top: -21px;
+    font-family: system-ui, system-ui, sans-serif;
+}
+
+#emaili {
+    border: 1px solid #ffffff;
+    background-color: black;
+    font-size: 15px;
+    width: 255px;
+    height: 43px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+.Subscribe button {
+    padding: 15px;
+    font-size: 17px;
+    font-family: system-ui, system-ui, sans-serif;
+    color: aliceblue;
+    background-color: #ff8b06;
+    border: none;
+    border-radius: 8px;
+    width: 174px;
+}

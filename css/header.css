@@ -1,0 +1,36 @@
+body {
+    width: 1000px;
+    background-color: #a7a7a7;
+    margin-left: 390px;
+}
+
+header {
+    text-align: right;
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 77px;
+}
+
+header h1 {
+    font-size: 45px;
+    color: black;
+    font-family: system-ui, system-ui, sans-serif;
+}
+
+header p {
+    font-size: 14px;
+    color: black;
+    margin-bottom: 30px;
+}
+
+header button {
+    padding: 15px;
+    font-size: 17px;
+    font-family: system-ui, system-ui, sans-serif;
+    color: aliceblue;
+    background-color: #ff8b06;
+    border: none;
+    border-radius: 8px;
+    width: 174px;
+}
